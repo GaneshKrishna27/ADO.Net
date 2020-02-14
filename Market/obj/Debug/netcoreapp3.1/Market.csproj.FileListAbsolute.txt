@@ -1,0 +1,10 @@
+D:\ADO.Net\Market\bin\Debug\netcoreapp3.1\Market.deps.json
+D:\ADO.Net\Market\bin\Debug\netcoreapp3.1\Market.dll
+D:\ADO.Net\Market\obj\Debug\netcoreapp3.1\Market.csprojAssemblyReference.cache
+D:\ADO.Net\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfoInputs.cache
+D:\ADO.Net\Market\obj\Debug\netcoreapp3.1\Market.AssemblyInfo.cs
+D:\ADO.Net\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.json
+D:\ADO.Net\Market\bin\Debug\netcoreapp3.1\Market.runtimeconfig.dev.json
+D:\ADO.Net\Market\bin\Debug\netcoreapp3.1\Market.pdb
+D:\ADO.Net\Market\obj\Debug\netcoreapp3.1\Market.dll
+D:\ADO.Net\Market\obj\Debug\netcoreapp3.1\Market.pdb

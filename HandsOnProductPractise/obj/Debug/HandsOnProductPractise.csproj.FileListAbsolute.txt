@@ -1,0 +1,6 @@
+D:\ADO.Net\HandsOnProductPractise\bin\Debug\HandsOnProductPractise.exe.config
+D:\ADO.Net\HandsOnProductPractise\bin\Debug\HandsOnProductPractise.exe
+D:\ADO.Net\HandsOnProductPractise\bin\Debug\HandsOnProductPractise.pdb
+D:\ADO.Net\HandsOnProductPractise\obj\Debug\HandsOnProductPractise.csprojAssemblyReference.cache
+D:\ADO.Net\HandsOnProductPractise\obj\Debug\HandsOnProductPractise.exe
+D:\ADO.Net\HandsOnProductPractise\obj\Debug\HandsOnProductPractise.pdb

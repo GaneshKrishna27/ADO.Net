@@ -1,0 +1,10 @@
+D:\ADO.Net\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.deps.json
+D:\ADO.Net\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.dll
+D:\ADO.Net\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfoInputs.cache
+D:\ADO.Net\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfo.cs
+D:\ADO.Net\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.csprojAssemblyReference.cache
+D:\ADO.Net\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.json
+D:\ADO.Net\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.dev.json
+D:\ADO.Net\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.pdb
+D:\ADO.Net\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.dll
+D:\ADO.Net\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.pdb
